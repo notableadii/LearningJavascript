@@ -31,3 +31,6 @@ if (tempInDegree > 40) {
 } else {
     console.log("freezing weather");
 }
+
+// in if else if after the first condition is true the rest of the conditions are not checked
+// if the first condition is false then the second condition is checked and so on
