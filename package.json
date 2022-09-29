@@ -1,0 +1,23 @@
+{
+  "name": "learingjavascript",
+  "version": "1.0.0",
+  "description": "Journey Of Learing Javascript From Beginning",
+  "main": "Part 1/index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcyKaido/LearingJavascript.git"
+  },
+  "keywords": [
+    "#Learining",
+    "#Javascript"
+  ],
+  "author": "Aditya Shah (IcyKaido)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcyKaido/LearingJavascript/issues"
+  },
+  "homepage": "https://github.com/IcyKaido/LearingJavascript#readme"
+}
