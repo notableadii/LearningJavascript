@@ -21,3 +21,7 @@
   },
   "homepage": "https://github.com/IcyKaido/LearingJavascript#readme"
 }
+
+"publishConfig": {
+   "@icykaido:registry": "https://npm.pkg.github.com"
+ }
