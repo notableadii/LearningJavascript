@@ -23,5 +23,5 @@
 }
 
 "publishConfig": {
-   "@icykaido:registry": "https://npm.pkg.github.com"
+   "@icykaido:registry": "https://github.com/icykaido/LearningJavascript.git"
  }
