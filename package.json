@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IcyKaido/LearingJavascript.git"
+    "url": "git+https://github.com/IcyKaido/LearningJavascript.git"
   },
   "keywords": [
     "#Learining",
     "#Javascript"
   ],
-  "author": "Aditya Shah (IcyKaido)",
+  "author": "Aditya Shah (icykaido)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IcyKaido/LearningJavascript/issues"
   },
-  "homepage": "https://github.com/IcyKaido/LearningJavascript#readme"
-}
+  "homepage": "https://github.com/IcyKaido/LearningJavascript#readme",
 
-"publishConfig": {
-   "@icykaido:registry": "https://github.com/icykaido/LearningJavascript.git"
- }
+  "publishConfig": {
+    "@icykaido:registry": "https://github.com/icykaido/LearningJavascript.git"
+  }
+}
