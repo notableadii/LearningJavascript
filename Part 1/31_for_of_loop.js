@@ -8,6 +8,7 @@ for(
     console.log(item); // 3. do something with the element
 }
 
+
 // here is the output:
 // apple
 // banana

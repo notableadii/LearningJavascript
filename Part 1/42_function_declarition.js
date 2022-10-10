@@ -21,6 +21,7 @@ function sumTwoNumbers(number1 , number2){// there are two parameters
    return number1 + number2;
 }
 
+// here return is a keyword that will return the value of the function defination - it will return the value of the function 
 // programming has dry principle - don't repeat yourself 
 // so we can use function to avoid repeating ourselves
 
